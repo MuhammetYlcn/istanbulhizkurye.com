@@ -16,4 +16,4 @@ Bu proje, **istanbulhizkurye.com** için hazırlanan kurumsal web sitesinin kayn
 
 ## 🌐 Canlı Demo
 Sitenin canlı halini buradan inceleyebilirsiniz: 
-[https://MuhammetYlcn.github.io/istanbulhizkurye.com/](https://MuhammetYlcn.github.io/istanbulhizkurye.com/)
+[istanbulhizkurye.com](https://www.istanbulhizkurye.com)
